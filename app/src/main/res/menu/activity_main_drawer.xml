@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_phieu_muon"
+        android:icon="@drawable/ic_home_menu"
+        android:title="@string/menu_phieumuon" />
+    <item
+        android:id="@+id/nav_loai_sach"
+        android:icon="@drawable/ic_book_menu"
+        android:title="@string/menu_loaisach" />
+    <item
+        android:id="@+id/nav_sach"
+        android:icon="@drawable/ic_book_menu"
+        android:title="@string/menu_sach" />
+    <item
+        android:id="@+id/nav_thanh_vien"
+        android:icon="@drawable/ic_member_menu"
+        android:title="@string/menu_thanhvien" />
+
+    <item android:title="@string/thong_ke">
+        <menu>
+            <item
+                android:id="@+id/nav_top10"
+                android:icon="@drawable/ic_top_menu"
+                android:title="@string/menu_top10" />
+            <item
+                android:id="@+id/nav_doanh_thu"
+                android:icon="@drawable/ic_money_menu"
+                android:title="@string/menu_doanhthu" />
+        </menu>
+    </item>
+
+    <item android:title="@string/nguoi_dung">
+        <menu>
+            <item
+                android:id="@+id/nav_ql_thu_thu"
+                android:icon="@drawable/ic_contacts_fill"
+                android:title="@string/quan_ly_thu_thu" />
+            <item
+                android:id="@+id/nav_doimk"
+                android:icon="@drawable/ic_changepass_menu"
+                android:title="@string/menu_doimk" />
+            <item
+                android:id="@+id/nav_dangxuat"
+                android:icon="@drawable/ic_log_out_menu"
+                android:title="@string/menu_dangxuat" />
+        </menu>
+    </item>
+</menu>

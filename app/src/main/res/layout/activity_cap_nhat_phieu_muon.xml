@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ui.phieumuon.CapNhatPhieuMuonActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/tbCapNhatPhieuMuon"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navigationIcon="@drawable/ic_baseline_arrow_back_24"
+        app:title="Cập nhật phiếu mượn"
+        app:titleTextAppearance="@style/fontFamilyToolbar"
+        app:titleTextColor="@color/white" />
+
+    <ScrollView
+        android:id="@+id/scrollView5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tbCapNhatPhieuMuon"
+        app:layout_constraintTop_toBottomOf="@+id/tbCapNhatPhieuMuon">
+
+        <LinearLayout
+            android:paddingBottom="64dp"
+            android:id="@+id/linearLayout12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                app:srcCompat="@drawable/phieu_muon" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/inter_bold"
+                android:gravity="center"
+                android:text="@string/thong_tin_phieu_muon"
+                android:textAllCaps="true"
+                android:textColor="@color/red"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/inter_medium"
+                android:text="@string/ma_phieu_muon"
+                android:textColor="@color/red"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/edtMaPhieuMuon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:alpha="0.5"
+                android:background="@drawable/bgr_edt_rd5_gray"
+                android:drawableStart="@drawable/ic_id_sach"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:padding="16dp"
+                tools:ignore="Autofill,LabelFor" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/inter_medium"
+                android:text="@string/ten_thanh_vien"
+                android:textColor="@color/red"
+                android:textSize="15sp" />
+
+            <Spinner
+                android:id="@+id/spThanhVien"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bgr_spiner_rd5" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/inter_medium"
+                android:text="@string/ten_sach"
+                android:textColor="@color/red"
+                android:textSize="15sp" />
+
+            <Spinner
+                android:id="@+id/spSach"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bgr_spiner_rd5" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/inter_medium"
+                android:text="@string/tien_thue"
+                android:textColor="@color/red"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/edtTienThue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bgr_edt_rd5_teal"
+                android:drawableStart="@drawable/ic_tienthue"
+                android:drawablePadding="8dp"
+                android:ems="10"
+                android:focusable="false"
+                android:inputType="textPersonName"
+                android:padding="16dp" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/inter_medium"
+                android:text="@string/ngay_muon"
+                android:textColor="@color/red"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/edtNgayMuon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bgr_edt_rd5_teal"
+                android:drawableStart="@drawable/ic_date_teal"
+                android:drawablePadding="8dp"
+                android:ems="10"
+                android:fontFamily="@font/inter_regular"
+                android:hint="@string/ngay_muon"
+                android:inputType="text|date"
+                android:padding="16dp"
+                android:textColor="#80333333"
+                android:textSize="15sp"
+                tools:ignore="Autofill" />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/inter_medium"
+                android:text="@string/trang_thai"
+                android:textColor="@color/red"
+                android:textSize="15sp" />
+
+            <RadioGroup
+                android:id="@+id/groupTrangThai"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/rbChuaTra"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:checked="true"
+                    android:fontFamily="@font/inter_regular"
+                    android:text="@string/chu_tra"
+                    android:textSize="15sp" />
+
+                <RadioButton
+                    android:id="@+id/rbDaTra"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/inter_regular"
+                    android:text="@string/da_tra"
+                    android:textSize="15sp" />
+            </RadioGroup>
+
+            <Button
+                android:id="@+id/btnUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/bgr_btn_rd5_teal"
+                android:fontFamily="@font/inter_bold"
+                android:text="@string/sua"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

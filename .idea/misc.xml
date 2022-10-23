@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable-hdpi/ic_id_gray.xml" value="0.2495" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable-mdpi/bgr_edt_rd5_teal.xml" value="0.2225" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable-v24/bgr_edt_rd5_gray.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable-v24/bgr_spiner_rd5.xml" value="0.2685" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable-v24/bgr_tv_rd5_red.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable-v24/ic_book_teal_24.xml" value="0.2535" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable-v24/ic_info_sach.xml" value="0.2685" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable-v24/ic_money_red.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_btn_chi_tiet.xml" value="0.2495" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_btn_rd30_teal.xml" value="0.1545" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_btn_rd5_red.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_btn_rd5_teal.xml" value="0.2535" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_btn_rd8dp_teal.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_dialog_rd5_white.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_edt_rd5_gray.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_item_rd5_white.xml" value="0.2495" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_item_thu_thu_rd5_white.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_quyen_truy_cap.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_spiner_rd5.xml" value="0.2685" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_tinh_toan_dt_red.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_tv_chi_tiet.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_tv_chi_tiet_black.xml" value="0.2495" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_tv_rd5_red.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/bgr_tv_trang_thai_da_tra.xml" value="0.2495" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_add_book_white_24.xml" value="0.2425" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_av_member.xml" value="0.2685" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_av_thuthu.xml" value="0.2685" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_avatar_nav.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_back24.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.2685" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_bgr_nav_header.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_birthday_teal_24.xml" value="0.1765" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_book.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_book_menu.xml" value="0.2535" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_book_teal_24.xml" value="0.2535" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_change_pass.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_contacts_teall.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_date.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_date_black1_24.xml" value="0.2495" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_date_black_24.xml" value="0.2495" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_date_teal.xml" value="0.2225" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_delete_black_24.xml" value="0.2425" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_edit_black_24.xml" value="0.2425" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_id_sach.xml" value="0.2685" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_info_sach.xml" value="0.239" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_item_lv_loaisach.xml" value="0.2495" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_item_sach.xml" value="0.2685" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_item_thu_thu_av1.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_item_thu_thu_av2.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2245" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_libmana.xml" value="0.2575" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_libmana_icon.xml" value="0.2575" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_libmana_teal.xml" value="0.2535" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_libmana_white.xml" value="0.2535" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_lock24.xml" value="0.265" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_lock24_black.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_lock_teal_24.xml" value="0.239" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_member.xml" value="0.2425" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_money_red.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_phieu_muon_ct.xml" value="0.2495" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_star24.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_tienthue.xml" value="0.2685" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_tienthue_black.xml" value="0.2495" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_user24.xml" value="0.265" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_user24_black.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_user_add_fill.xml" value="0.167" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/ic_welcome24.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/logo_libmana_white.xml" value="0.239" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/drawable/side_nav_bar.xml" value="0.27" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/activity_cap_nhat_phieu_muon.xml" value="0.22" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/activity_change_password.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/activity_phieu_muon_chi_tiet.xml" value="0.28736581337737405" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/activity_sach_chi_tiet.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/activity_thanh_vien_chi_tiet.xml" value="0.33559782608695654" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/activity_them_phieu_muon.xml" value="0.35054347826086957" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/activity_thu_thu_chi_tiet.xml" value="0.3484375" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/activity_welcome.xml" value="0.33" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/app_bar_main.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/content_main.xml" value="0.17603850050658562" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/fragment_doanh_thu.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/fragment_loai_sach.xml" value="0.33559782608695654" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/fragment_phieu_muon.xml" value="0.35054347826086957" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/fragment_quan_ly_thu_thu.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/fragment_sach.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/fragment_thanh_vien.xml" value="0.33559782608695654" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/fragment_top10.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/item_couter.xml" value="0.3374094202898551" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_dialog_sua_loaisach.xml" value="0.3605072463768116" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_dialog_sua_sach.xml" value="0.35054347826086957" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_dialog_sua_thanhvien.xml" value="0.33559782608695654" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_dialog_sua_thuthu.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_dialog_them_loaisach.xml" value="0.3605072463768116" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_dialog_them_phieu_muon.xml" value="0.33" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_dialog_them_sach.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_dialog_them_thanhvien.xml" value="0.33559782608695654" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_dialog_them_thuthu.xml" value="0.3484375" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_item_loaisach.xml" value="0.33559782608695654" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_item_phieu_muon.xml" value="0.35054347826086957" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_item_sach.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_item_spiner.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_item_spiner_loai_sach.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_item_thanhvien.xml" value="0.33559782608695654" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_item_thuthu.xml" value="0.33" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/layout_item_top10.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/layout/nav_header_main.xml" value="0.33" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/menu/main.xml" value="0.2638888888888889" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/menu/phieumuon.xml" value="0.3625" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2495" />
+        <entry key="..\:/MOB2041_DuAnMau/ProjectLibManna/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
