@@ -5,6 +5,7 @@ import androidx.annotation.NonNull;
 import java.util.Date;
 
 public class PhieuMuon {
+    // phiếu mượn
     private int maPhieuMuon;
     private String maThuThu;
     private int maThanhVien;
